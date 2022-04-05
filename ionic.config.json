@@ -1,0 +1,7 @@
+{
+  "name": "Take16",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
